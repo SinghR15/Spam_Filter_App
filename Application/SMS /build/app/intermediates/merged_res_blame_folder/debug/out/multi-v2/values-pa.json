@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/azwad/Projects/sms/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
+            "outputFile": "/home/azwad/Projects/Spam_Filter_App/Application/SMS /build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
             "map": [
                 {
                     "source": "/home/azwad/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/values-pa/values-pa.xml",
