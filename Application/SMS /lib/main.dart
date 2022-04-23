@@ -27,7 +27,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Plugin example app'),
+          title: const Text('Test SMS App'),
         ),
         body: Container(
           padding: const EdgeInsets.all(10.0),
