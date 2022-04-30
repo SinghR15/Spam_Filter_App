@@ -50,7 +50,6 @@ class _MyAppState extends State<MyApp> {
             if (permission.isGranted) {
               final messages = await _query.querySms(
                 kinds: [SmsQueryKind.inbox, SmsQueryKind.sent],
-                // address: '+254712345789',
                 count: 10,
               );
               debugPrint('sms inbox messages: ${messages.length}');
