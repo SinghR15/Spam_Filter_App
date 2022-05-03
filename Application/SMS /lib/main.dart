@@ -27,7 +27,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Test SMS App'),
+          title: const Text('SMS Reading App'),
         ),
         body: Container(
           padding: const EdgeInsets.all(10.0),
@@ -48,10 +48,7 @@ class _MyAppState extends State<MyApp> {
           onPressed: () async {
             var permission = await Permission.sms.status;
             if (permission.isGranted) {
-              final messages = await _query.querySms(
-                kinds: [SmsQueryKind.inbox, SmsQueryKind.sent],
-                count: 10,
-              );
+              final messages = await _query.getAllSms;
               debugPrint('sms inbox messages: ${messages.length}');
 
               setState(() => _messages = messages);

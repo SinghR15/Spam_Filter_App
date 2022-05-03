@@ -12,11 +12,11 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/home/azwad/Projects/Spam_Filter_App/Application/SMS /android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/home/azwad/Projects/Spam_Filter_App/Application/SMS /android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/home/azwad/StudioProjects/Spam_Filter_App/Application/SMS /android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/home/azwad/StudioProjects/Spam_Filter_App/Application/SMS /android/app/src/debug/AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.READ_SMS" />
-15-->/home/azwad/Projects/Spam_Filter_App/Application/SMS /android/app/src/main/AndroidManifest.xml:3:5-67
-15-->/home/azwad/Projects/Spam_Filter_App/Application/SMS /android/app/src/main/AndroidManifest.xml:3:22-64
+15-->/home/azwad/StudioProjects/Spam_Filter_App/Application/SMS /android/app/src/main/AndroidManifest.xml:3:5-67
+15-->/home/azwad/StudioProjects/Spam_Filter_App/Application/SMS /android/app/src/main/AndroidManifest.xml:3:22-64
 16
 17    <application
 18        android:name="android.app.Application"

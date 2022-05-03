@@ -1,4 +1,4 @@
-#Sat Apr 23 16:23:40 EDT 2022
-base.0=/home/azwad/Projects/Spam_Filter_App/Application/SMS /build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Tue May 03 19:03:44 EDT 2022
+base.0=/home/azwad/StudioProjects/Spam_Filter_App/Application/SMS /build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
